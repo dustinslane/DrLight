@@ -23,3 +23,13 @@ If only the tangent wrong for that direction it will just replace the tangent.
 Sometimes the direction is also different. In that case, it will find the direction in the reference files that is closest 
 to what's in your .light file.
 Then it will replace both your direction & tangent with the reference values.
+
+## Thanks to
+
+[@GTA-DPS]( https://github.com/GTA-DPS )
+
+
+[@sldsmkd]( https://github.com/sldsmkd ) for providing these files
+https://github.com/sldsmkd/vector3d
+https://github.com/sldsmkd/vector2d
+
