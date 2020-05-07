@@ -15,7 +15,7 @@ Done. Your .light file(s) now should have the correct direction/tangent values.
 
 ## Requirements
 
-.NET framework 4.7.2
+.NET framework 4.7.2 ( basically you need to have windows 7 SP1 or higher )
 
 ## How it works
 
