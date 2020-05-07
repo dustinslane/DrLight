@@ -24,6 +24,8 @@ Sometimes the direction is also different. In that case, it will find the direct
 to what's in your .light file.
 Then it will replace both your direction & tangent with the reference values.
 
+In short: it will attempt to fix your interior lighting as best as it can
+
 ## Thanks to
 
 [@GTA-DPS]( https://github.com/GTA-DPS )
