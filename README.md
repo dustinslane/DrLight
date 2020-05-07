@@ -4,6 +4,8 @@ Dr Light is a small program I wrote for [@GTA-DPS]( https://github.com/GTA-DPS )
 
 Dr Light corrects wrong Direction/Tangent entries in .light files exported by Gims EVO using stock rockstar .light files for reference. This should allow modders to recreate the quality of interior lighting that Rockstar has.
 
+### [Download](https://github.com/dustinslane/DrLight/releases/latest)
+
 ## How to use it
 
 1. Download & unzip somewhere.
