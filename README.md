@@ -13,6 +13,10 @@ Dr Light corrects wrong Direction/Tangent entries in .light files exported by Gi
 
 Done. Your .light file(s) now should have the correct direction/tangent values.
 
+## Requirements
+
+.NET framework 4.7.2
+
 ## How it works
 
 The program will load all the reference Direction & Tangent pairs into memory. Then it compares the values in your .light file 
