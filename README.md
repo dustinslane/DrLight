@@ -38,6 +38,10 @@ Notice in this image how the light is bouncing off of the wall in the back. This
 
 Credit to DPS for that interior and the image.
 
+### Well how many light files do I need?
+
+I have about 500 in my references folder. More is better.
+
 ## Thanks to
 
 [@GTA-DPS]( https://github.com/GTA-DPS )
