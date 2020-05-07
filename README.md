@@ -34,7 +34,7 @@ In short: it will attempt to fix your interior lighting as best as it can
 
 ![](https://cdn.discordapp.com/attachments/669992366182105088/708034324691157044/unknown.png)
 
-Notice in this image how the light is bouncing off of the wall in the back. This is because there's an angled light in the ceiling, I've been told this is unfortunately not possible with how GIMS EVO exports .light files. 
+Notice in this image how the light is bouncing off of the wall in the back. This is because there's an angled light in the ceiling, I've been told this is unfortunately not possible with how GIMS EVO calculates .light files. 
 
 Credit to DPS for that interior and the image.
 
