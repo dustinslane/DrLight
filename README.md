@@ -1,6 +1,6 @@
 # DrLight
 
-Dr Light is a small program I wrote for [@GTA-DPS]( https://github.com/GTA-DPS ) It was his idea, and with some elbow grease this turned out greate.
+Dr Light is a small program I wrote for [@GTA-DPS]( https://github.com/GTA-DPS ) It was his idea, and with some elbow grease this turned out great.
 
 Dr Light corrects wrong Direction/Tangent entries in .light files exported by Gims EVO using stock rockstar .light files for reference. This should allow modders to recreate the quality of interior lighting that Rockstar has.
 
