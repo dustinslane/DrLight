@@ -36,6 +36,8 @@ In short: it will attempt to fix your interior lighting as best as it can
 
 Notice in this image how the light is bouncing off of the wall in the back. This is because there's an angled light in the ceiling, I've been told this is unfortunately not possible with how GIMS EVO exports .light files. 
 
+Credit to DPS for that interior and the image.
+
 ## Thanks to
 
 [@GTA-DPS]( https://github.com/GTA-DPS )
