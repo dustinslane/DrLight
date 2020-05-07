@@ -1,17 +1,17 @@
 # DrLight
 
-Dr Light is a small program I wrote for DPS. It was all his idea, I just executed.
+Dr Light is a small program I wrote for [@GTA-DPS]( https://github.com/GTA-DPS ) It was his idea, and with some elbow grease this turned out greate.
 
-Dr Light corrects wrong Direction/Tangent entries in .light files exported by Gims EVO using reference rockstar .light files.
+Dr Light corrects wrong Direction/Tangent entries in .light files exported by Gims EVO using stock rockstar .light files for reference. This should allow modders to recreate the quality of interior lighting that Rockstar has.
 
-## Usage
+## How to use it
 
 1. Download & unzip somewhere.
-2. Run the .exe once, prompting it to create a `reference` folder.
-3. Fill the `reference` folder with reference rockstar .light files. You have to find these yourself.
-4. Drag and drop your .light file (or files, it can do multiple at the same time) on to the .exe.
+2. Run the .exe once, it will create a `reference` folder.
+3. Fill the `reference` folder with rockstar .light files. You have to find these yourself, they are not supplied with Dr Light.
+4. Drag and drop your .light file or files (it can do multiple at the same time) on to the .exe.
 
-Done. Your .light files now should have the correct direction/tangent values.
+Done. Your .light file(s) now should have the correct direction/tangent values.
 
 ## How it works
 
